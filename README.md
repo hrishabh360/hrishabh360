@@ -1,17 +1,16 @@
-# Hrishabh Mahaju  
----
+## Hrishabh Mahaju  
 
-## About Me
+## 👨‍💻 About Me  
 
 Welcome to my GitHub! 🎉 I am **Hrishabh Mahaju**, a passionate data science student at the University of New Haven. With a solid foundation in **data engineering**, **web development**, and **software engineering**, I am excited to leverage my skills to tackle complex data challenges and contribute to innovative solutions.  
 
 I aim to work on projects that blend **software engineering**, **data analysis**, **machine learning**, and **visualization**, helping organizations unlock the full potential of their data.  
 
-## Let's Connect
+## 🌐 Let's Connect  
+
+### Feel free to reach out or collaborate on exciting data science projects!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/hrishabh-mahaju-8a515b176/) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hrishabh360) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajuh@gmail.com) [![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hrishabh.com.np)  
-
----
 
 ## 🚀 Skills & Technologies  
 
@@ -35,9 +34,10 @@ I aim to work on projects that blend **software engineering**, **data analysis**
 
 
 ---
+## 📊 GitHub Stats  
 
-## Let's Connect!  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishabh360&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrishabh360&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh360&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=hrishabh360&color=blue&style=for-the-badge)  
 
-Feel free to reach out or collaborate on exciting data science projects!  
-
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](http://linkedin.com/in/hrishabh-mahaju-8a515b176/) [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/your-github-username) [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:hmaha4@unh.newhaven.edu)  
