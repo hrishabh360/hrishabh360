@@ -1,8 +1,8 @@
 # Hrishabh Mahaju  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/hrishabh-mahaju-8a515b176/)  
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hrishabh360)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmaha4@unh.newhaven.edu)  
+## About Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/hrishabh-mahaju-8a515b176/) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hrishabh360) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmaha4@unh.newhaven.edu)  
 
 ---
 
@@ -16,11 +16,13 @@ I aim to work on projects that blend **data analysis**, **machine learning**, an
 
 ## Skills & Technologies  
 
-- **Programming Languages:** Python, Java, SQL  
-- **Data Science Tools:** Pandas, Numpy, Jupyter, Selenium  
+- **Programming Languages:** Python, Java EE, Spring Boot, Javascript, Typescript, HTML5  
+- **Data Science Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Pytorch  
 - **Frameworks & Libraries:** Spring Boot, Angular, React  
-- **Database Systems:** MariaDB, MSSQL  
-- **Development Practices:** Docker, Git, Agile Development  
+- **Database Systems:** MSSQL, MSSQL, MongoDB, Oracle
+- **Cloud and Hosting:** AWS, FIREBASE, VERCEL, NETLIFY
+- **Tools:** GIT, GITHUB, GITLAB, POSTMAN, JMETER, TRELLO, JIRA, SWAGGER, Docker
+
 
 ---
 
@@ -28,6 +30,4 @@ I aim to work on projects that blend **data analysis**, **machine learning**, an
 
 Feel free to reach out or collaborate on exciting data science projects!  
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](http://linkedin.com/in/hrishabh-mahaju-8a515b176/)  
-[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/your-github-username)  
-[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:hmaha4@unh.newhaven.edu)  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](http://linkedin.com/in/hrishabh-mahaju-8a515b176/) [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/your-github-username) [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:hmaha4@unh.newhaven.edu)  
